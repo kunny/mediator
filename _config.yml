@@ -3,6 +3,9 @@ gems:
   - jemoji
   - jekyll-paginate
 
+timezone: Asia/Seoul
+permalink: pretty
+
 # Site settings
 title: "Mediator"
 description: > # this means to ignore newlines until "email:"
