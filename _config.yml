@@ -1,4 +1,9 @@
 # Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
 gems:
   - jemoji
   - jekyll-paginate
